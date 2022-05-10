@@ -1,4 +1,9 @@
 # RS3-Fletcher
 A semi automated RuneScape3 Fletcher.
 
-# Pip install pyautogui
+# Install Packages
+```
+Pip install pyautogui
+
+pip install tkinter
+```
